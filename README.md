@@ -3,7 +3,7 @@ Convert vector fonts to bitmaps that used for Kaleido ADV Workshop engine (or an
 
 To add characters, go to line 5.
 
-To select font and size, go to line 63.
+To select font and size, go to line 67.
 
 |**NEW GAME! -THE CHALLENGE STAGE!-**|**Plastic Memories**|
 | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
