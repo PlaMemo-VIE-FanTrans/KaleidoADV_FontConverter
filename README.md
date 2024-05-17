@@ -8,3 +8,6 @@ To select font and size, go to line 67.
 |**NEW GAME! -THE CHALLENGE STAGE!-**|**Plastic Memories**|
 | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 | ![NEW GAME! -THE CHALLENGE STAGE!-](./images/NEW_GAME!_-THE_CHALLENGE_STAGE!-_4H3buBPNqc.png) | ![Plastic Memories](./images/Plastic_Memories_VH_We2dBOrOt6.png) |
+
+# To do
+Outline and antialias, maybe GUI too.
